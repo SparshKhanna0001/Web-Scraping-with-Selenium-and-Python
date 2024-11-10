@@ -19,10 +19,10 @@ To learn ab0ut webscrapping with a hands-on experience.
 #### Exampe
 
 Project getting used, example:
-!(CMD)[https://github.com/SparshKhanna0001/Web-Scraping-with-Selenium-and-Python/tree/master/images/ss.png]
+![CMD](https://postimg.cc/c6TmjcHk)
 
 JSON File so formed:
-!(Result JSON file)[https://github.com/SparshKhanna0001/Web-Scraping-with-Selenium-and-Python/tree/master/images/result_file.png]
+![Result JSON file](https://postimg.cc/F1hpD69J)
 
 
 ## License
